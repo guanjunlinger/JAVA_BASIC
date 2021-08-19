@@ -19,15 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a72ae72-435c-4138-bf57-aad26cd24846" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/generic/MyParameterizedType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/generic/MyTypeVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/generic/MyWildcardType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/generic/Print.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dp.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="9a72ae72-435c-4138-bf57-aad26cd24846" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,23 +29,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/generic/MyTypeVariable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="17" column="88" selection-start-line="17" selection-start-column="88" selection-end-line="17" selection-end-column="88" />
+            <state relative-caret-position="513">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="jar://E:/Java/JDK8/src.zip!/java/lang/reflect/TypeVariable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="70" column="7" lean-forward="true" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -171,7 +154,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1629344730309" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1629344874909" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -560,7 +543,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596598591476</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="泛型与反射">
+      <created>1629344808557</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1629344808557</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -594,7 +584,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27132195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -723,7 +712,8 @@
     <MESSAGE value="Random 并发环境" />
     <MESSAGE value="线程探针和种子的应用" />
     <MESSAGE value="类加载机器" />
-    <option name="LAST_COMMIT_MESSAGE" value="类加载机器" />
+    <MESSAGE value="泛型与反射" />
+    <option name="LAST_COMMIT_MESSAGE" value="泛型与反射" />
   </component>
   <component name="WindowStateProjectService">
     <state x="448" y="181" key="#Project_Structure" timestamp="1594260153767">
@@ -911,20 +901,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/generic/MyTypeVariable.java">
+    <entry file="jar://E:/Java/JDK8/src.zip!/java/lang/reflect/TypeVariable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="17" column="88" selection-start-line="17" selection-start-column="88" selection-end-line="17" selection-end-column="88" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="251">
+          <caret line="73" column="43" lean-forward="true" selection-start-line="73" selection-start-column="43" selection-end-line="73" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/Java/JDK8/src.zip!/java/lang/reflect/TypeVariable.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/generic/MyTypeVariable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="70" column="7" lean-forward="true" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="22" />
+        <state relative-caret-position="513">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
