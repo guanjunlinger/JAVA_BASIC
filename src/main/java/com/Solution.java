@@ -1,40 +1,43 @@
 package com;
 
+import java.util.Scanner;
+
 public class Solution {
 
-    public static double getFunction(Double x) {
-        return x * x - 2;
-    }
-
-    public static double minDifficulty() {
-        double left = 0.0;
-        double right = 2.0;
-        double mid = 1.0;
-        while (right -left > 1.0e-10) {
-            double leftValue = getFunction(left);
-            double rightValue = getFunction(right);
-            double middleValue = getFunction(mid);
-            if (leftValue * middleValue < 0) {
-                right = mid;
-                mid = (left + right) / 2;
-            } else if (middleValue * rightValue < 0) {
-                left = mid;
-                mid = (left + right) / 2;
-            } else if (leftValue == 0) {
-                return left;
-            } else if (middleValue == 0) {
-                return mid;
-            } else if (rightValue == 0) {
-                return right;
-            }
-
+    public static int numOfSubarrays(int[] arr) {
+        int n = arr.length;
+        int mod = (int) Math.pow(10, 9) + 7;
+        int[][] dp = new int[n][2];
+        if ((arr[0] & 1) == 0) {
+            dp[0][0] = 1;
+        } else {
+            dp[0][1] = 1;
         }
-        return mid;
+        int res = dp[0][1];
+        for (int i = 1; i < n; i++) {
+            if ((arr[i] & 1) == 0) {
+                dp[i][0] = dp[i - 1][0] + 1;
+                dp[i][1] = dp[i - 1][1];
+            } else {
+                dp[i][0] = dp[i - 1][1];
+                dp[i][1] = dp[i - 1][0] + 1;
+            }
+            res += dp[i][1]%mod;
+            res = res % mod;
+        }
+        return res;
+
     }
+
 
     public static void main(String[] args) {
-        System.out.println(minDifficulty());
-        System.out.println(Math.sqrt(2));
+        Scanner scanner = new Scanner(System.in);
+        int n = scanner.nextInt();
+        int[] arr = new int[n];
+        for (int i = 0; i < n; i++) {
+            arr[i] = scanner.nextInt();
+        }
+        System.out.println(numOfSubarrays(arr));
     }
 
 }
