@@ -20,18 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a72ae72-435c-4138-bf57-aad26cd24846" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/dp/Thought-of-transformation/交错字符串" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/dp/Thought-of-transformation/删除元素" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/dp/Thought-of-transformation/卡片得分" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/dp/Thought-of-transformation/坐飞机" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/dp/Thought-of-transformation/最大子序列交替和" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/queue/优先级队列" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/queue/单调队列.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/stack/单调栈.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/dp/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/dp/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/dp/博弈问题-玩游戏" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/dp/零和博弈/玩游戏" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/dp/极大极小算法-卡片得分" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/dp/极大极小算法-取石子" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/dp/零和博弈/取石子" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/dp/概率论" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/dp/转化与划归" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,7 +33,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/queue/单调队列.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="734">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -81,6 +83,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/algorithm/dp/概率论" />
         <option value="$PROJECT_DIR$/src/main/java/com/algorithm/dp/Thought-of-transformation/坐飞机" />
         <option value="$PROJECT_DIR$/src/main/java/com/algorithm/dp/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/stack/单调栈.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/queue/dp+单调队列.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/queue/优先级队列" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/queue/单调队列.txt" />
       </list>
     </option>
   </component>
@@ -96,10 +102,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-6" />
-    <option name="y" value="-6" />
-    <option name="width" value="970" />
-    <option name="height" value="550" />
+    <option name="x" value="-3" />
+    <option name="y" value="-3" />
+    <option name="width" value="485" />
+    <option name="height" value="275" />
   </component>
   <component name="ProjectId" id="1e6uIKPuTeDvMS4YUKw94x1vSGQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -108,7 +114,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -159,43 +165,13 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="dac" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JAVA_BASIC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JAVA_BASIC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JAVA_BASIC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JAVA_BASIC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
-              <item name="Thought-of-transformation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JAVA_BASIC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JAVA_BASIC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="queue" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -214,7 +190,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1636559459777" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1636881050862" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -297,6 +273,7 @@
       <workItem from="1635062215078" duration="1636000" />
       <workItem from="1635513350565" duration="2537000" />
       <workItem from="1635947726541" duration="6240000" />
+      <workItem from="1636707053510" duration="20277000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1586830991914</created>
@@ -622,12 +599,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22815000" />
+    <option name="totallyTimeSpent" value="43092000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1293" height="773" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31983805" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21428572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -637,7 +615,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32866043" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21339564" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21339564" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -788,11 +766,6 @@
     <state x="625" y="271" width="670" height="676" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1200@0.0.1920.1200" timestamp="1593654988427" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/JDK8/src.zip!/javax/management/JMX.java" />
-    <entry file="jar://D:/JDK8/src.zip!/com/sun/jmx/mbeanserver/MXBeanSupport.java" />
-    <entry file="jar://D:/JDK8/src.zip!/com/sun/jmx/mbeanserver/Introspector.java" />
-    <entry file="jar://D:/JDK8/src.zip!/com/sun/jmx/interceptor/DefaultMBeanServerInterceptor.java" />
-    <entry file="jar://D:/JDK8/jre/lib/rt.jar!/com/sun/management/jmx/MBeanServerImpl.class" />
     <entry file="jar://D:/JDK8/src.zip!/javax/management/MBeanServer.java" />
     <entry file="jar://D:/JDK8/src.zip!/java/lang/management/PlatformManagedObject.java" />
     <entry file="jar://D:/JDK8/jre/lib/rt.jar!/sun/management/MemoryPoolImpl.class" />
@@ -891,13 +864,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/dp/Thought-of-transformation/卡片得分">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/dp/零和博弈/玩游戏">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -905,20 +871,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/dp/零和博弈/取石子">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/dp/转化与划归">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="12" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/dp/转化与划归" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/dp/Thought-of-transformation/交错字符串">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -926,27 +879,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/dp/Thought-of-transformation/坐飞机">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/dp/概率论">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/dp/Thought-of-transformation/最大子序列交替和">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/dp/概率论" />
     <entry file="jar://D:/JDK12/lib/src.zip!/java.base/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="141">
@@ -975,10 +908,73 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/dp/Solution.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/dp/零和博弈/取石子">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/dp/Thought-of-transformation/删除元素">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/dp/Thought-of-transformation/卡片得分">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/dp/Thought-of-transformation/坐飞机">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/dp/Thought-of-transformation/最大子序列交替和">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/sort/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-70">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/stack/单调栈.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/queue/dp+单调队列.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/queue/优先级队列">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/queue/单调队列.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="734">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
