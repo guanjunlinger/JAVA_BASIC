@@ -22,7 +22,6 @@
     <list default="true" id="9a72ae72-435c-4138-bf57-aad26cd24846" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/dp/dp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/dp/dp.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/dp/双序列dp/统计只差一个字符的子串数目.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/dp/dp.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="243">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -191,7 +190,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1637465828083" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1637483628985" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -297,7 +296,7 @@
       <workItem from="1635947726541" duration="6240000" />
       <workItem from="1636707053510" duration="27625000" />
       <workItem from="1637418121605" duration="2582000" />
-      <workItem from="1637465782119" duration="682000" />
+      <workItem from="1637465782119" duration="1345000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1586830991914</created>
@@ -600,7 +599,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636881194730</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="交错字符串">
+      <created>1637466526358</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1637466526358</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -630,10 +636,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53708000" />
+    <option name="totallyTimeSpent" value="54371000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="773" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23157895" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -1034,7 +1041,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/dp/dp.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
         </state>
       </provider>
     </entry>
