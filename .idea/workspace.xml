@@ -35,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/状态压缩/概念与性质">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="14" />
+            <state relative-caret-position="243">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -82,7 +82,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/algorithm/queue/dp+单调队列.txt" />
         <option value="$PROJECT_DIR$/src/main/java/com/algorithm/queue/优先级队列" />
         <option value="$PROJECT_DIR$/src/main/java/com/algorithm/queue/单调队列.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/algorithm/stack/单调栈.txt" />
         <option value="$PROJECT_DIR$/src/main/java/com/algorithm/dp/双序列dp/统计只差一个字符的子串数目.txt" />
         <option value="$PROJECT_DIR$/src/main/java/com/algorithm/dp/dp.txt" />
@@ -91,6 +90,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/algorithm/dp/状态压缩dp/概念与性质" />
         <option value="$PROJECT_DIR$/src/main/java/com/algorithm/dp/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/algorithm/bt/回溯法" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/algorithm/状态压缩/概念与性质" />
       </list>
     </option>
@@ -195,7 +195,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1638110298766" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1638709988263" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -319,7 +319,7 @@
       <workItem from="1637821785078" duration="413000" />
       <workItem from="1638070136751" duration="9937000" />
       <workItem from="1638192828989" duration="595000" />
-      <workItem from="1638674960653" duration="902000" />
+      <workItem from="1638674960653" duration="4880000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1586830991914</created>
@@ -657,7 +657,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638110290703</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="交错字符串">
+      <created>1638676762954</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1638676762954</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -687,10 +694,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68847000" />
+    <option name="totallyTimeSpent" value="72825000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="773" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23481782" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -970,13 +978,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/JDK12/lib/src.zip!/java.base/java/lang/RuntimeException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
@@ -1085,13 +1086,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/dp/状态压缩dp/最接近目标价格的甜点成本.txt" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/dp/状态压缩dp/我能赢" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/dac/分治">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/dp/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -1102,10 +1107,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/dac/分治">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/状态压缩/概念与性质">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="14" />
+        <state relative-caret-position="243">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
