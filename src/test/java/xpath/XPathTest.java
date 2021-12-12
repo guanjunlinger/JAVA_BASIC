@@ -26,7 +26,7 @@ public class XPathTest {
                 DocumentBuilderFactory.newInstance();
         DocumentBuilder builder = factory.newDocumentBuilder();
 
-        Document doc = builder.parse("/Users/guanjun/gitrepository/dp/src/test/java/xpath/input.txt");
+        Document doc = builder.parse("/Users/guanjun/gitrepository/graph/src/test/java/xpath/input.txt");
         XPath xPath = XPathFactory.newInstance().newXPath();
         String expression = "/class/student";
         NodeList nodeList = (NodeList) xPath.compile(expression).evaluate(

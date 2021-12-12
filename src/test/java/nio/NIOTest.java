@@ -11,14 +11,14 @@ public class NIOTest {
 
     @Test
     public void testFileVisitor() throws IOException {
-        Path path = Paths.get("/Users/guanjun/gitrepository/dp");
+        Path path = Paths.get("/Users/guanjun/gitrepository/graph");
         Files.walkFileTree(path, new CustomFileVisitor());
 
     }
 
     @Test
     public void testWatchService() throws IOException {
-        Path path = Paths.get("/Users/guanjun/gitrepository/dp");
+        Path path = Paths.get("/Users/guanjun/gitrepository/graph");
         WatchService watcher = FileSystems.getDefault().newWatchService();
         WatchKey temp = path.register(watcher,
                 StandardWatchEventKinds.ENTRY_CREATE,
