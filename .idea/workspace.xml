@@ -20,23 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a72ae72-435c-4138-bf57-aad26cd24846" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/bt/回溯法" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/dac/分治" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/dp/Floyd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/dp/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/dp/Thought-of-transformation/交错字符串" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/Thought-of-transformation/交错字符串" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/dp/Thought-of-transformation/删除元素" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/Thought-of-transformation/删除元素" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/dp/Thought-of-transformation/卡片得分" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/Thought-of-transformation/卡片得分" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/dp/Thought-of-transformation/坐飞机" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/Thought-of-transformation/坐飞机" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/dp/Thought-of-transformation/执行乘法运算的最大分数" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/Thought-of-transformation/执行乘法运算的最大分数" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/dp/Thought-of-transformation/最大子序列交替和" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/Thought-of-transformation/最大子序列交替和" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/dp/dp.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/dp/零和博弈/取石子" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/dp/零和博弈/玩游戏" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/状态压缩/概念与性质" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/nio/NIOTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/nio/NIOTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/xpath/XPathTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/xpath/XPathTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithm/算法导论.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithm/算法导论.xmind" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,7 +32,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/sort/CountingSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -98,6 +103,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/algorithm/graph/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/algorithm/状态压缩/概念与性质" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/Solution.java" />
       </list>
     </option>
   </component>
@@ -126,8 +132,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,10 +157,20 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JAVA_BASIC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA_BASIC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -642,12 +656,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82645000" />
+    <option name="totallyTimeSpent" value="83273000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="773" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24291497" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25506073" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
